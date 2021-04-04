@@ -11,7 +11,6 @@ Readme is found [**here**](/README.md)
 3. [Projects](#projects)
 4. [Goals](#goals)
 5. [Random Facts](#facts)
-6. [Contact me](#contact)
 
 ### **Summary**<a name="summary"></a>
 Hello, I am a student from the University of California, San Diego and I am on my 3rd year of my computer science bacehlors of science. I am interested in game development and am beginning to take a slight interest in cryptography and computer security.
@@ -35,6 +34,7 @@ Hello, I am a student from the University of California, San Diego and I am on m
         std::cout << "Hello, World!" << std::endl;
         return 0;
     }
+  ```
 
 ### **My Goals Include:**<a name="goals"></a>
 * Contributing to some project I can proudly claim has had a positive influence in the world.
@@ -51,6 +51,3 @@ Hello, I am a student from the University of California, San Diego and I am on m
   >    -Michael Scott
 * My favorite song is
 [**this**](https://youtu.be/dQw4w9WgXcQ).
-
-### **Conact me through LinkedIn** 
-[***HERE***](www.linkedin.com/in/carlos-guerrero7b9317b)
