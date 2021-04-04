@@ -23,7 +23,7 @@ Hello, I am a student from the University of California, San Diego and I am on m
 * CSS
 * SQL
 
-### **Projects Completed/In Progress**<a name="projects></a>
+### **Projects Completed/In Progress**<a name="projects"></a>
 - [x] A file compression and decompression algorithm. (Completed)
 - [ ] A ticket system where users can make, finish, or edit requests. (progress)
 - [ ] A platform video game (progress)
@@ -36,7 +36,7 @@ Hello, I am a student from the University of California, San Diego and I am on m
         return 0;
     }
 
-### **My Goals Include:**<a name="goals></a>
+### **My Goals Include:**<a name="goals"></a>
 * Contributing to some project I can proudly claim has had a positive influence in the world.
 * Getting a job in the internet security field.
 * Developing my own video game and be able to publish it.
@@ -53,5 +53,4 @@ Hello, I am a student from the University of California, San Diego and I am on m
 [**this**](https://youtu.be/dQw4w9WgXcQ).
 
 ### **Conact me through LinkedIn** 
-[***HERE***](www.linkedin.com/in/carlos-guerrero-747b9317b
-)
+[***HERE***](www.linkedin.com/in/carlos-guerrero7b9317b)
